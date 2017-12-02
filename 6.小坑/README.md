@@ -15,5 +15,9 @@ set @@sql_mode='STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVIS
 ```
 @RequestBody不支持@GetMapping注解
 ```
+### ERROR in static/js/vendor.666a349cafd8725e85b9.js from UglifyJs
+Unexpected token: name (Dom7) [./node_modules/.2.0.1@dom7/dist/dom7.modular.js:14,0][static/js/vendor.666a349cafd8725e85b9.js:21192,6]
+
+"vue-awesome-swiper": "^2.5.0", // 3.03 ==> 2.5.0 //https://github.com/nolimits4web/Swiper/issues/2263
 
 
