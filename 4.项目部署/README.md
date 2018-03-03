@@ -7,8 +7,6 @@
 2. 配置nginx
 3. 微服务启动顺序
 4. 执行mysql脚本(root 123456 redis 123456)
-
-
 ```
 
 ### 配置host
@@ -109,6 +107,5 @@
 3. paascloud-provider-uac
 4. paascloud-gateway
 5. 剩下微服务无启动数序要求
-
 ```
 ## 生产环境部署
